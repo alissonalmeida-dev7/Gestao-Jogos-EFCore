@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Entity Framework Core => ORM (Mapeador de Objetos Relacionais)
+// Database First
+// Code First
+
 Console.WriteLine("Hello, World!");
